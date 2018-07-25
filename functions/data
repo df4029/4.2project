@@ -1,0 +1,13 @@
+module.exports = {
+    let searchCity = (browser, inputPlace, expectedOutput) => {
+        browser
+            .waitForElementVisible('@searchField', 5000, 'Search field found')
+            .setValue('@searchField', inputPlace)
+            .click('@subBut')}
+
+       
+
+    }
+
+
+

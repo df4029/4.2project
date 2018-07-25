@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites errors="0"
+            failures="0"
+            tests="2">
+
+  <testsuite name="4.2test"
+    errors="0" failures="0" hostname="" id="" package="4.2test" skipped="0"
+    tests="2" time="8.553" timestamp="Wed, 25 Jul 2018 03:50:54 GMT">
+  
+    <testcase name="search for valid city" classname="4.2test" time="2.802" assertions="3">
+
+    
+
+    
+
+    
+    </testcase>
+  
+    <testcase name="search by zip" classname="4.2test" time="5.751" assertions="3">
+
+    
+
+    
+
+    
+    </testcase>
+  
+
+  
+
+  
+  </testsuite>
+</testsuites>
